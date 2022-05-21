@@ -1,3 +1,4 @@
 this is a sample project
 example of demo.txt
 hello world 
+duplicate line 3
